@@ -26,7 +26,7 @@ public class Main {
             do{
                 String line = scanner.nextLine();
 
-                //Put in the keyword here that is sent to the incremental logging-counter app
+                //Put in the keyword here that is sent to the tracking_app app
                 String targetWord = "JOSHYODA";
 
                 int start = line.indexOf(targetWord);
