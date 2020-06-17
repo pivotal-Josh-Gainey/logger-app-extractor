@@ -486,7 +486,6 @@
 66e3fce2-4884-4757-a522-5a2355c0476f 1 Mon Feb 24 2020 17:27:29.207 2020-02-24 22:27:29.206  INFO 13 --- [nio-8080-exec-5] com.jgainey.speclogger.Utils             : JOSHYODA,33295,
 66e3fce2-4884-4757-a522-5a2355c0476f 1 Mon Feb 24 2020 17:27:29.156 2020-02-24 22:27:29.156  INFO 13 --- [nio-8080-exec-5] com.jgainey.speclogger.Utils             : JOSHYODA,33294,
 66e3fce2-4884-4757-a522-5a2355c0476f 1 Mon Feb 24 2020 17:27:29.106 2020-02-24 22:27:29.106  INFO 13 --- [nio-8080-exec-5] com.jgainey.speclogger.Utils             : JOSHYODA,33293,
-66e3fce2-4884-4757-a522-5a2355c0476f 1 Mon Feb 24 2020 17:27:29.056 2020-02-24 22:27:29.056  INFO 13 --- [nio-8080-exec-5] com.jgainey.speclogger.Utils             : JOSHYODA,33292,
 66e3fce2-4884-4757-a522-5a2355c0476f 1 Mon Feb 24 2020 17:27:29.006 2020-02-24 22:27:29.006  INFO 13 --- [nio-8080-exec-5] com.jgainey.speclogger.Utils             : JOSHYODA,33291,
 66e3fce2-4884-4757-a522-5a2355c0476f 1 Mon Feb 24 2020 17:27:28.956 2020-02-24 22:27:28.955  INFO 13 --- [nio-8080-exec-5] com.jgainey.speclogger.Utils             : JOSHYODA,33290,
 66e3fce2-4884-4757-a522-5a2355c0476f 1 Mon Feb 24 2020 17:27:28.905 2020-02-24 22:27:28.905  INFO 13 --- [nio-8080-exec-5] com.jgainey.speclogger.Utils             : JOSHYODA,33289,

@@ -12,7 +12,7 @@ public class Main {
         List<Integer> list = new ArrayList<>();
 
         //reference the logs
-        File file = new File("assets/logs.log");
+        File file = new File("assets/lab5.log");
         Scanner scanner = null;
         try {
             scanner = new Scanner(file);
@@ -27,7 +27,7 @@ public class Main {
                 String line = scanner.nextLine();
 
                 //Put in the keyword here that is sent to the tracking_app app
-                String targetWord = "JOSHYODA";
+                String targetWord = "test5";
 
                 int start = line.indexOf(targetWord);
                 int lineLength = line.length();
@@ -50,10 +50,19 @@ public class Main {
 
         //Find the missing values.
         System.out.println("Finding missing values...");
-        for(int i = list.get(0); i< list.size(); i++){
+
+        int topnum = list.get(list.size()-1);
+
+        System.out.println("List size " + + list.size());
+        System.out.println("First " + list.get(0));
+        System.out.println("Last " + topnum);
+
+        for(int i = list.get(0); i< topnum; i++){
             if(!list.contains(i)){
                 System.out.println("Missing " + i);
             }
         }
     }
+
+
 }
